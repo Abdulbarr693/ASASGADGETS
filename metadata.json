@@ -1,0 +1,6 @@
+{
+  "name": "ASASGADGETS",
+  "description": "A multi-vendor tech gadget marketplace featuring changeable dark and white themes, Nigerian Naira (₦) pricing, certified electronics, parametric filtering, side-by-side spec comparison, seller wizard, and admin escrow controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
